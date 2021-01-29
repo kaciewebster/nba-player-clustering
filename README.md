@@ -1,4 +1,4 @@
-# nba-player-clustering
+# NBA Player Clustering
 
 Unsupervised clustering on NBA players from 1980-2019.
 
